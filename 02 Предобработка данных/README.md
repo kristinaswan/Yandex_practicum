@@ -25,7 +25,7 @@
 
 ### Инструменты:
 * Python
-* Библиотки Pandas, Numpy, Pprint, Matplotlib, Seaborn, Pymystem3, Collections
+* Библиотки Pandas, Numpy, Pprint, Matplotlib.pyplot, Seaborn, Pymystem3, Collections
 
 ### Навыки:
 * Предобработка данных
