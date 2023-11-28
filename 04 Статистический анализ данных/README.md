@@ -33,7 +33,7 @@
 
 ### Инструменты:
 * Python
-* Библиотки Pandas, Numpy, Math, Datetime, Matplotlib.pyplot, SciPy, Seaborn
+* Библиотки Pandas, Numpy, Math, SciPy, Datetime, Matplotlib.pyplot, Seaborn
 
 ### Навыки:
 * Предобработка данных
